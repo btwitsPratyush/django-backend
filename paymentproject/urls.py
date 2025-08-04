@@ -24,8 +24,8 @@ from rest_framework_simplejwt.views import (
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include('api.urls')),  # Your app-specific API routes
-    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),  # DRF browsable login
+    path('api/', include('api.urls')),  # your app-specific routes
     path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),  # JWT login
     path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),  # JWT refresh
+    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),  # DRF browsable login
 ]
