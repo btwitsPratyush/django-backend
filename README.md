@@ -12,7 +12,7 @@ This project is set up with Django REST Framework and includes:
 - Health check endpoint
 - Admin interface
 
-## Installation
+## Installation:-
 
 1. Activate the virtual environment:
    ```bash
