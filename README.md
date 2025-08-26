@@ -71,7 +71,7 @@ paymentproject/
 └── requirements.txt
 ```
 
-## Features
+## Features:-
 
 - ✅ Django REST Framework setup
 - ✅ CORS configuration
