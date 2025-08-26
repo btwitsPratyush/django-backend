@@ -2,7 +2,7 @@
 
 A Django REST Framework project for payment processing.
 
-## Project Setup
+## Project Setup:-
 
 This project is set up with Django REST Framework and includes:
 
