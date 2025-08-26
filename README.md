@@ -60,7 +60,7 @@ You can test the API endpoints using:
 2. Django REST Framework Browsable API: Visit `http://127.0.0.1:8000/api/`
 3. Admin Interface: Visit `http://127.0.0.1:8000/admin/`
 
-## Development
+## Development:-
 
 The project structure:
 ```
