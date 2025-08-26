@@ -62,7 +62,7 @@ You can test the API endpoints using:
 
 ## Development:-
 
-The project structure:
+The project structure:-
 ```
 paymentproject/
 ├── api/                 # API app
