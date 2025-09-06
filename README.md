@@ -40,7 +40,7 @@ This project is set up with Django REST Framework and includes:
    python manage.py runserver
    ```
 
-## API Endpoints
+## API Endpoints:-
 
 - **Health Check**: `GET /api/health/` - Check if the API is running
 - **API Info**: `GET /api/info/` - Get API information and available endpoints
