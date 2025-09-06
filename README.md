@@ -52,7 +52,7 @@ This project is set up with Django REST Framework and includes:
 - Username: `admin`
 - Password: `admin123`
 
-## API Testing
+## API Testing:-
 
 You can test the API endpoints using:
 
